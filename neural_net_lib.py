@@ -498,8 +498,8 @@ class Model:
         """
         Loads the model parameters.
 
-        Parameters:
-        -----------
+        Args:
+        
         saved_layers : list
                    Layers to load
 
